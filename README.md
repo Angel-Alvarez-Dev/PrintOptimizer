@@ -289,7 +289,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Type | Channel |
 |------|---------|
-| **Email Support** | [support@printoptimazer.com](alvarezvillegasjoseangel@gmail.com) |
+| **Email Support** | [alvarezvillegasjoseangel@gmail.com](alvarezvillegasjoseangel@gmail.com) |
 
 ## 🙏 Acknowledgments
 
