@@ -289,11 +289,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Type | Channel |
 |------|---------|
-| **Documentation** | [docs.printoptimazer.com](https://docs.printoptimazer.com) |
-| **Bug Reports** | [GitHub Issues](https://github.com/yourusername/PrintOptimazer/issues) |
-| **Feature Requests** | [GitHub Discussions](https://github.com/yourusername/PrintOptimazer/discussions) |
-| **Community Forum** | [community.printoptimazer.com](https://community.printoptimazer.com) |
-| **Email Support** | [support@printoptimazer.com](mailto:support@printoptimazer.com) |
+| **Email Support** | [support@printoptimazer.com](alvarezvillegasjoseangel@gmail.com) |
 
 ## 🙏 Acknowledgments
 
